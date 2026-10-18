@@ -1,0 +1,102 @@
+STORY DUNGEON — EASY ENGLISH ADVENTURE
+ผจญภัยภาษาอังกฤษแบบง่าย • ไม่ต้องพิมพ์เรียงความ • มีคำแปลไทย
+
+วิธีเปิดเกม
+1. ถ้าได้รับ ZIP ให้แตกไฟล์ก่อน (Extract All / Unzip)
+2. เปิด Story Dungeon.html ด้วยเบราว์เซอร์บนคอมพิวเตอร์ เช่น Chrome หรือ Edge
+   บน Windows: คลิกขวาไฟล์ > Open with > เลือกเบราว์เซอร์
+3. เลือกภาษา แล้วกดเริ่มการผจญภัย ตั้งชื่อและแต่งตัวละคร
+4. อ่านเรื่องสั้น ๆ แล้วเข้าสู่ดันเจี้ยน
+ไม่ต้องติดตั้ง Roblox ไม่ต้องสมัครบัญชี และไม่ต้องต่ออินเทอร์เน็ต
+
+เล่นแบบง่ายอย่างไร
+- แต่ละชั้นมีภารกิจภาษาอังกฤษสั้น ๆ พร้อมคำแปลไทย
+- เลือกคำตอบที่ช่วยทาลี ถ้าเลือกผิดก็ลองใหม่ได้ มีคำใบ้บอกทางให้
+- ต่อข้อความ 3 ส่วน โดยเลือกทีละส่วนจากตัวเลือก 2 อัน
+- ตัวเลือกทั้งคู่ในแต่ละส่วนเป็นสำนวนที่ใช้ได้ เลือกแบบที่ชอบได้เลย
+- ครบ 3 ส่วนแล้วกด “ส่งให้ทาลี” อ่านคำตอบ แล้วกด “ผจญภัยต่อ”
+- ไม่ต้องพิมพ์ ไม่ต้องนับคำ และไม่มีการตรวจไวยากรณ์ที่ทำให้ติดด่าน
+- ตอนสำรวจ อ่านเรื่องสั้นแล้วเลือกการกระทำ ตัวเลือกแนะนำมีดาวสีทอง
+- พลังใจไม่ลด เลือกพลาดก็ไม่ตาย เล่นไปถึงตอนจบได้
+- ลองอ่านข้อความให้เพื่อนฟัง แล้วเล่าให้เพื่อนเข้าใจว่าเราบอกอะไรทาลี
+
+ภารกิจทั้ง 4 ชั้น
+1. Say Hello! — ทักทาย บอกว่าอยู่ที่ประตู และขอให้ช่วยอ่านแผนที่
+2. Show the Way! — บอกทางซ้าย ตรงไปเสาสีฟ้า แล้วขวา พร้อมเตือนกับดัก
+3. Something Is Wrong! — หน้าจอบอกว่าเปิด แต่ประตูยังปิด ขอให้ช่วยตรวจ
+4. Send the Journal! — บันทึก ส่งสมุด แล้วรอคำตอบ RECEIVED ก่อนปิดวิทยุ
+
+เมนูและเรื่องราวสลับไทย/อังกฤษได้ ภารกิจมีคำแปลไทยให้เห็นเสมอ
+ปุ่มฟังใช้เฉพาะเสียงภาษาอังกฤษที่ติดตั้งในเครื่อง ถ้าไม่มีเสียงก็อ่านแทนได้
+ทาลีเป็นตัวละครในเกม ข้อความไม่ได้ส่งให้คนจริงหรือเซิร์ฟเวอร์
+สมุดภาษาอังกฤษแสดงข้อความที่ต่อจากตัวเลือก และดาวน์โหลดเป็น .txt ได้
+ข้อความนี้เป็นการฝึกแบบมีตัวช่วย ไม่ใช่คะแนนวัดระดับหรือการเขียนเองทั้งหมด
+
+ฉากจบและการตั้งค่า
+เกมมี 4 ชั้น และ 4 ตอนจบตามการตัดสินใจ ไม่มีพลังใจหมดในฉบับเล่นง่ายนี้
+หลังคำตอบสุดท้าย ฉากจบ 3D ประมาณ 30 วินาทีจะเล่นเอง:
+ตัวละครข้ามสะพาน ผ่านประตู เดินหาคริสตัล แล้วแสง 5 ทิศพุ่งไปเปิดหีบ
+ก่อนแสดงชื่อและตัวละครว่าผ่านครบทุกชั้นแล้ว
+กดพักภาพ เล่นต่อ ข้ามฉาก หรือดูฉากจบอีกครั้งได้
+ถ้าเปิด “ข้ามคัตซีนจบอัตโนมัติ” ไว้ จะเห็นผลลัพธ์แทน และกดเล่นอนิเมชันเต็มได้
+หากภาพช้า ให้เปิดลดเอฟเฟกต์ 3D ถ้าเครื่องแสดง 3D ไม่ได้ จะมีฉาก 2D แทน
+ตั้งค่าปรับเสียงบรรยากาศ เสียงเอฟเฟกต์ ขนาดตัวอักษร และการเคลื่อนไหวได้
+เสียงเริ่มหลังเข้าเกมหรือกดลองฟังเสียง
+
+บันทึกและส่งให้เพื่อน
+เกมบันทึกเส้นทางกับข้อความที่เลือกไว้ในเบราว์เซอร์เมื่อเครื่องอนุญาต
+เซฟเก่าจากภารกิจแบบเขียนจะเก็บเส้นทางเรื่องเดิม แต่เริ่มภารกิจง่ายใหม่
+ทำภารกิจตามลำดับถึงชั้นที่เล่นค้างไว้แล้วจึงผจญภัยต่อได้
+เริ่มเกมใหม่จะเริ่มสมุดภาษาเล่มใหม่ด้วย
+การย้ายไฟล์ เปลี่ยนเบราว์เซอร์ หรือล้างข้อมูล อาจทำให้เซฟเดิมไม่แสดง
+ส่ง Story Dungeon.html ไฟล์เดียวหรือ ZIP ให้เพื่อนได้ เซฟของเราไม่ติดไปด้วย
+ให้เพื่อนดาวน์โหลดแล้วเปิดในเบราว์เซอร์ ไม่ใช่หน้าพรีวิวของแอปแชต
+ตัวดูไฟล์บนโทรศัพท์บางตัวไม่รันเกม HTML ถ้าเปิดไม่ได้ให้ใช้คอมพิวเตอร์
+
+ปุ่มลัดและเมนู
+1–9: เลือกการกระทำในเรื่อง / N: เปิดสมุดบันทึก
+ไทย / EN: สลับภาษา / Aa Text: ขนาดตัวอักษร
+Settings: ตั้งค่า / Menu: กลับหน้าแรก / Continue: เล่นต่อ
+New adventure หรือ Restart: เริ่มเรื่องใหม่
+
+ไฟล์ประกอบสำหรับงานกลุ่ม
+ENGLISH_PROJECT_GUIDE.md — แนวทางโครงงานและบทนำเสนอภาษาอังกฤษ
+PLAYTEST_LEARNING.md — แบบบันทึกทดลองเล่นกับคนจริง (ยังเว้นผลไว้)
+ฉบับนี้อิงภาพ Overview ของอาจารย์ ยังไม่ได้รับ PDF โจทย์ฉบับเต็ม
+ควรตรวจเกณฑ์ใน PDF และกรอกผลทดลองจริงก่อนส่งงาน
+
+HOW TO PLAY
+Extract the ZIP, then open Story Dungeon.html in a desktop browser.
+No account, Roblox installation, internet connection, or server is needed.
+Choose a language, start a new adventure, enter a name, and customize your character.
+
+Each floor has a short English mission with visible Thai translations.
+Choose a helpful reply. If it does not help, read the friendly hint and try again.
+Build a message in three small parts, choosing one phrase from each pair.
+Both phrases in a pair are useful alternatives. No typing or word count is required.
+Send to Tali, read her response, and select Keep exploring.
+Practise asking for help, directions, describing a problem, and a journal handoff.
+Try reading the message to a partner and explaining what it means.
+This is supported phrase building, not independent writing or a language grade.
+Tali is fictional; your messages are not sent to a real person or server.
+Optional listening uses an installed local English voice only. Reading always works.
+
+Story scenes are shorter and bilingual. A gold star marks a suggested available choice.
+Your health does not decrease, so mistakes do not cause an exhaustion ending.
+The four floors still lead to four different successful endings.
+The final choice starts the 30-second 3D crystal celebration automatically,
+unless Skip ending cutscenes is enabled. Pause, skip, and replay are available.
+Use lighter effects if it runs slowly; a 2D fallback is available without 3D support.
+Settings includes sound, text size, language, and motion preferences.
+
+Open Journal to review and download your assembled English messages as a .txt file.
+Progress and selected message parts are saved locally when browser storage allows it.
+Older writing-edition saves keep their story route but restart the beginner missions.
+A new adventure starts a fresh journal. Moving the file or changing browsers may hide an old save.
+Share the HTML or ZIP with friends; your browser save is not included.
+Download the game and open it in a browser, not inside a chat-app file preview.
+Some phone file viewers block HTML games; use a computer if this happens.
+
+The ZIP includes an English project/presentation guide and a blank human playtest sheet.
+The full teacher brief was not supplied; check it before handing in the project.
+This is a standalone offline browser game, not an exported Roblox application.
